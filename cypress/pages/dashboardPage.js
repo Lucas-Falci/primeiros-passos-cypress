@@ -3,7 +3,6 @@ class DashboardPage {
   selectorsList() {
     const selectors = {
       dashboardGrid: ".orangehrm-dashboard-grid",
-
     }
 
     return selectors
